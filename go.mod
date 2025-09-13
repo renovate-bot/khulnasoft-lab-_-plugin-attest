@@ -7,7 +7,7 @@ toolchain go1.23.2
 require (
 	github.com/in-toto/in-toto-golang v0.9.0
 	github.com/sigstore/cosign v1.13.6
-	github.com/sigstore/cosign/v2 v2.4.1
+	github.com/sigstore/cosign/v2 v2.6.0
 	github.com/sigstore/sigstore v1.8.9
 	github.com/spf13/cobra v1.8.1
 	golang.org/x/xerrors v0.0.0-20231012003039-104605ab7028
